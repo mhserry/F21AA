@@ -2,3 +2,5 @@
 train.csv
 *.xml
 *.iml
+labels.csv
+test.csv
