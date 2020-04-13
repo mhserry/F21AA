@@ -1,0 +1,9 @@
+week 1:
+
+- 2 papers (extractive using dl) + reviews.
+
+
+week 2:
+
+- 1 paper (Abstractive and Extractive Text Summarization using Document).
+- writing full reviews (1 paragraph per section - 5 hours total tops).
